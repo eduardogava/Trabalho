@@ -42,14 +42,6 @@ display: inline-block;
     margin: 5px 0 0 90px;
 }
 
-label{
-    display: none;
-}
-
-button{
-margin-top: 5px;
-}
-
 input{
 border-radius: 3px 3px 0 0;
 border: 1px solid#999;
